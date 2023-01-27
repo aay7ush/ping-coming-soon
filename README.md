@@ -6,9 +6,9 @@ Building realistic projects to improve my front-end skills.
 
 ![](screenshots/ss-desktop.png)
 
-<p>
-<img align="left" width="380" height="650" src="screenshots/ss-mobile.png">
-<img align="right" width="380" height="650" src="screenshots/ss-mobile-error.png">
+<p float="left">
+<img width="400" height="650" src="screenshots/ss-mobile.png">
+<img width="400" height="650" src="screenshots/ss-mobile-error.png">
 </p>
 
 ### Links
