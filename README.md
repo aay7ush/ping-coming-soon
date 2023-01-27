@@ -6,10 +6,10 @@ Building realistic projects to improve my front-end skills.
 
 ![](screenshots/ss-desktop.png)
 
-<div>
-<img align="left" width="400" height="650" src="screenshots/ss-mobile.png">
-<img align="right" width="400" height="650" src="screenshots/ss-mobile-error.png">
-</div>
+<p>
+<img align="left" width="380" height="650" src="screenshots/ss-mobile.png">
+<img align="right" width="380" height="650" src="screenshots/ss-mobile-error.png">
+</p>
 
 ### Links
 
